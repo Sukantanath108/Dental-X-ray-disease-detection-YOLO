@@ -1,3 +1,10 @@
+<p>
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+  <img src="https://img.shields.io/badge/Made%20with-Scikit--Learn-yellow?logo=scikit-learn" alt="Scikit-Learn">
+</p>
+
+
 # Dental-Radiographs-Disease-Detection-using-YOLO
 "Object detection in dental radiographs to resolve label ambiguity using YOLOv11 variants."<br>
 <p>Dataset: https://data.mendeley.com/datasets/wxv6h9p39g/1"</p>
