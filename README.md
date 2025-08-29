@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Framework-PyTorch-red?logo=pytorch" alt="PyTorch">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
   <img src="https://img.shields.io/badge/Models-YOLOv11-brightgreen" alt="YOLO Models">
-  <img src="https://img.shields.io/badge/Accuracy-success" alt="Model Accuracy">
 </p>
 
 
