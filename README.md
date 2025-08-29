@@ -1,8 +1,12 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Deep%20Learning-CNNs%2C%20Transformers-orange" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Framework-PyTorch-red?logo=pytorch" alt="PyTorch">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
-  <img src="https://img.shields.io/badge/Made%20with-Scikit--Learn-yellow?logo=scikit-learn" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Models-YOLOv11%2FYOLOv12-brightgreen" alt="YOLO Models">
+  <img src="https://img.shields.io/badge/Accuracy-92%25%2B-success" alt="Model Accuracy">
 </p>
+
 
 
 # Dental-Radiographs-Disease-Detection-using-YOLO
